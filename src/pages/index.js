@@ -220,20 +220,7 @@ const IndexPage = () => {
         </h3>
         <div>
         <p>
-          Recordings are provided by StreamETH:{" "}
-        </p>
-        <p>
-          <a
-            href="https://watch.protocol.berlin/ethberlin/protocol_berg#schedule"
-            target="_blank"
-            rel="noreferrer"
-            className="ml-12"
-          >
-            watch.protocol.berlin
-          </a>
-        </p>
-        <p>
-          A mirror of all sessions is also available on our YouTube channel:{" "}
+          All recordings are available on our YouTube channel:{" "}
         </p>
         <p>
           <a
